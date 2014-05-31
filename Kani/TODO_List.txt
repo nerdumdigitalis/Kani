@@ -1,0 +1,7 @@
+TODO KANI:
+Láta gjöf færast á milli leikja
+Setja inn Tromp virkni
+Setja inn virkni fyrir aftrompun
+Laga scoreboard
+eyða requested spili
+Laga þannig að hægt er að apila fleirri en einn leik

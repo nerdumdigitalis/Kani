@@ -1,0 +1,60 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:DeckActions.cs" caret="254" fromTop="11" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Entities/f:Team.cs" caret="24" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:Program.cs" caret="441" fromTop="13" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:PlayingTableView.Designer.cs" caret="490" fromTop="13" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:StaticFields.cs" caret="0" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Entities/f:Game.cs" caret="100" fromTop="6" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Biz/f:GameBiz.cs" caret="3286" fromTop="14" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Entities/f:Hand.cs" caret="33" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:GenericArgs.cs" caret="286" fromTop="15" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:TODO_List.txt" caret="12" fromTop="1" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:ITableView.cs" caret="59" fromTop="4" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:TablePosition.cs" caret="1619" fromTop="17" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:PlayingCard.cs" caret="713" fromTop="19" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Entities/f:Player.cs" caret="87" fromTop="4" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:Table.cs" caret="209" fromTop="10" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:ScoreBoardPositions.cs" caret="863" fromTop="15" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:ScoreBoardFactory.cs" caret="3404" fromTop="12" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:ScoreBoard.cs" caret="363" fromTop="10" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Biz/f:BizExtensions.cs" caret="2587" fromTop="13" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:TableFactory.cs" caret="796" fromTop="22" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:PlayingTableView.cs" caret="723" fromTop="27" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Enums/f:CardNames.cs" caret="0" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Enums/f:Players.cs" caret="0" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Enums/f:SuitNames.cs" caret="0" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:CardMover.cs" caret="0" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:Dealer.cs" caret="0" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:Deck.cs" caret="0" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Controllers/f:KaniController.cs" caret="10166" fromTop="26" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:PlayingCard.cs" caret="179" fromTop="8" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Entities/f:Team.cs" caret="24" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Enums/f:CardNames.cs" caret="12" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Enums/f:SuitNames.cs" caret="22" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:DeckActions.cs" caret="254" fromTop="11" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:GenericArgs.cs" caret="286" fromTop="15" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:Dealer.cs" caret="625" fromTop="12" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Enums/f:Players.cs" caret="149" fromTop="9" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:StaticFields.cs" caret="123" fromTop="6" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:CardMover.cs" caret="234" fromTop="10" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Entities/f:Game.cs" caret="100" fromTop="6" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Entities/f:Player.cs" caret="264" fromTop="10" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:Deck.cs" caret="547" fromTop="8" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Biz/f:GameBiz.cs" caret="3649" fromTop="20" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Biz/f:BizExtensions.cs" caret="2650" fromTop="23" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/d:Entities/f:Hand.cs" caret="33" fromTop="0" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:ScoreBoard.cs" caret="359" fromTop="10" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:ScoreBoardPositions.cs" caret="863" fromTop="15" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:ScoreBoardFactory.cs" caret="3404" fromTop="12" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:TODO_List.txt" caret="12" fromTop="1" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:ITableView.cs" caret="59" fromTop="4" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:Table.cs" caret="861" fromTop="20" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:TablePosition.cs" caret="1619" fromTop="17" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Core/f:TableFactory.cs" caret="794" fromTop="22" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/d:Controllers/f:KaniController.cs" caret="925" fromTop="10" />
+    <File id="7703FDB9-E542-4D93-B00B-F0C3A6F072FF/f:PlayingTableView.cs" caret="723" fromTop="19" />
+  </RecentEdits>
+</RecentFiles>

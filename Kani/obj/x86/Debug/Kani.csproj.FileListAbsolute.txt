@@ -1,0 +1,9 @@
+c:\users\sigurður\documents\visual studio 2010\Projects\Kani\Kani\obj\x86\Debug\Kani.PlayingTableView.resources
+c:\users\sigurður\documents\visual studio 2010\Projects\Kani\Kani\obj\x86\Debug\Kani.Properties.Resources.resources
+c:\users\sigurður\documents\visual studio 2010\Projects\Kani\Kani\bin\Debug\Kani.exe
+c:\users\sigurður\documents\visual studio 2010\Projects\Kani\Kani\bin\Debug\Kani.pdb
+c:\users\sigurður\documents\visual studio 2010\Projects\Kani\Kani\obj\x86\Debug\Kani.exe
+c:\users\sigurður\documents\visual studio 2010\Projects\Kani\Kani\obj\x86\Debug\Kani.pdb
+C:\Users\Sigurður\documents\visual studio 2010\Projects\Kani\Kani\bin\Debug\Transitions.dll
+C:\Users\Sigurður\documents\visual studio 2010\Projects\Kani\Kani\obj\x86\Debug\Kani.csproj.GenerateResource.Cache
+C:\Users\Sigurður\documents\visual studio 2010\Projects\Kani\Kani\obj\x86\Debug\Kani.csprojResolveAssemblyReference.cache

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7703FDB9-E542-4D93-B00B-F0C3A6F072FF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kani</RootNamespace>
+    <AssemblyName>Kani</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Transitions">
+      <HintPath>..\..\..\..\..\Downloads\TransitionsLibrary_1_2\Transitions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Biz\BizExtensions.cs" />
+    <Compile Include="Controllers\KaniController.cs" />
+    <Compile Include="Core\Enums\CardNames.cs" />
+    <Compile Include="Core\Dealer.cs" />
+    <Compile Include="Core\Entities\Game.cs" />
+    <Compile Include="Biz\GameBiz.cs" />
+    <Compile Include="Core\GenericArgs.cs" />
+    <Compile Include="Core\Entities\Hand.cs" />
+    <Compile Include="Core\Enums\Players.cs" />
+    <Compile Include="Core\Enums\SuitNames.cs" />
+    <Compile Include="Core\StaticFields.cs" />
+    <Compile Include="ITableView.cs" />
+    <Compile Include="ScoreBoard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Core\ScoreBoardFactory.cs" />
+    <Compile Include="ScoreBoardPositions.cs" />
+    <Compile Include="Table.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Core\TablePosition.cs" />
+    <Compile Include="Core\Deck.cs" />
+    <Compile Include="Core\Entities\Player.cs" />
+    <Compile Include="PlayingCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PlayingTableView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayingTableView.Designer.cs">
+      <DependentUpon>PlayingTableView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Core\DeckActions.cs" />
+    <Compile Include="Core\CardMover.cs" />
+    <Compile Include="Core\Entities\Team.cs" />
+    <Compile Include="Core\TableFactory.cs" />
+    <EmbeddedResource Include="PlayingTableView.resx">
+      <DependentUpon>PlayingTableView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TODO_List.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
